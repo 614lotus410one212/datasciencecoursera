@@ -1,3 +1,3 @@
 # datasciencecoursera
 coursera_datascientists_toolbox
-## this is lame
+## this could be moderately more exciting
